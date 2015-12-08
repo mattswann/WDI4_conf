@@ -1,15 +1,15 @@
 # WDI4_conf
 
-Matt Swann
+Gregory Fernandes
 
-Solving Digital Problems with everyday items
+How to code a "Jumpy Piranha" game in 10 minutes
 
 Requirements:
 
-A tea spoon
-7 small paperclips
-sticky tape
-3 sheets of A3 paper
-1 alsatian with a shaved back
-rusty farm tools
-Matt will discuss the Macgyver approach to getting shit done.
+A laptop
+A webserver. Rails will do, might be an overkill though
+A few grey cells, fingers and 2 sockets with eyeballs in 'em.
+
+Greg will help you get over your fear(if you have one) of coding a game in 10 minutes.
+
+
