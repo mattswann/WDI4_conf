@@ -11,7 +11,7 @@
 
 * Real world applications in negotiation. 
 
-*What this means for agent/human co-ordination, trust, conmen knowledge and signalling.
+* What this means for agent/human co-ordination, trust, conmen knowledge and signalling.
 
 
 ![alt text](http://www.overthinkingit.com/wp-content/uploads/2012/07/prisoners-dilemma.jpg)
